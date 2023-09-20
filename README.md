@@ -3,6 +3,7 @@
 #Tutorial 
 https://developer.chrome.com/docs/extensions/mv3/manifest/
 [manifest.json]
+
 #API Refrence
 https://developer.chrome.com/docs/extensions/reference/
 [chrome.alarm]
