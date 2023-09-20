@@ -1,4 +1,6 @@
 # extensions_chrome
+Water Reminder, Stay Hydrated isn’t bare-bones. It has a rather cool chrome extension and displays the time left until the next reminder.
+
 
 #Tutorial 
 
